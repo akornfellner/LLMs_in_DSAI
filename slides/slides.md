@@ -33,8 +33,9 @@ highlightTheme: monokai
 - Zugang zu gleichen Mitteln schaffen
 - Verantwortungsbewussten Umgang mit KI vermitteln
 - Übungen müssen anders durchgeführt werden
+- **Flipped Classroom** für neue Konzepte
 - **Diskussionen über LLMs und ihre Auswirkungen!**
 
 ---
 
-# DEMO
+# DEMO Titanic
